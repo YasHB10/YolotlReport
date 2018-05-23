@@ -1,0 +1,85 @@
+\contentsline {chapter}{Advertencia}{\es@scroman {i}}{chapter*.1}
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Planteamiento del problema}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Contexto}{2}{section.2.1}
+\contentsline {chapter}{\numberline {3}Marco te\IeC {\'o}rico conceptual}{3}{chapter.3}
+\contentsline {section}{\numberline {3.1}Videojuego.}{3}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}\IeC {\textquestiondown }Qu\IeC {\'e} es un videojuego?}{3}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Caracteristicas del videojuego.}{3}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Clasificaci\IeC {\'o}n del vidoejuego.}{4}{subsection.3.1.3}
+\contentsline {subsubsection}{Clasificaci\IeC {\'o}n por contenido.}{4}{subsection.3.1.3}
+\contentsline {subsubsection}{Junta de Clasificaci\IeC {\'o}n de Software de Entretenimiento.}{5}{subsection.3.1.3}
+\contentsline {subsubsection}{Clasificaci\IeC {\'o}n por jugabilidad.}{5}{figure.3.2}
+\contentsline {subsection}{\numberline {3.1.4}Industria del videojuego.}{7}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Industria del juego en M\IeC {\'e}xico}{8}{subsection.3.1.5}
+\contentsline {section}{\numberline {3.2}Desarrollo de videojuegos.}{10}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Linea de producci\IeC {\'o}n de un videojuego.}{10}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Metodologias de desarrollo de videojuegos.}{10}{subsection.3.2.2}
+\contentsline {subsubsection}{\IeC {\textquestiondown }Qu\IeC {\'e} es una metodolog\IeC {\'\i }a de desarrollo de software?}{11}{subsection.3.2.2}
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a en cascada}{11}{subsection.3.2.2}
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a en Scrum}{12}{subsection.3.2.2}
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a de Programaci\IeC {\'o}n extrema}{13}{subsection.3.2.2}
+\contentsline {subsubsection}{Metodolog\IeC {\'\i }a Huddle}{14}{subsection.3.2.2}
+\contentsline {subsubsection}{El metodo Cerny}{15}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Software para el desarrollo de videojuegos.}{17}{subsection.3.2.3}
+\contentsline {subsubsection}{Motor de juego.}{17}{subsection.3.2.3}
+\contentsline {subsubsection}{Arquitectura del motor}{17}{subsection.3.2.3}
+\contentsline {subsubsection}{Motores gr\IeC {\'a}ficos existentes en el mercado.}{19}{subsection.3.2.3}
+\contentsline {subsubsection}{Software auxiliar}{20}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Cultura.}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}\IeC {\textquestiondown }Qu\IeC {\'e} es la cultura?}{22}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Caracter\IeC {\'\i }sticas de la cultura}{22}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Clasificaci\IeC {\'o}n de la cultura.}{23}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Importancia de la cultura.}{23}{subsection.3.3.4}
+\contentsline {section}{\numberline {3.4}Gamificaci\IeC {\'o}n}{24}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}\IeC {\textquestiondown }Qu\IeC {\'e} es la gamificaci\IeC {\'o}n?}{24}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Elementos del videojuego en la gamificaci\IeC {\'o}n.}{24}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Tipos de jugadores.}{25}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Intervalos de actividades de la gamificaci\IeC {\'o}n.}{25}{subsection.3.4.4}
+\contentsline {subsubsection}{Bucles de compromiso}{26}{subsection.3.4.4}
+\contentsline {subsubsection}{Bucle de inicio y progresi\IeC {\'o}n}{26}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Tipos de diversi\IeC {\'o}n.}{26}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Framework de dise\IeC {\~n}o de la Gamificaci\IeC {\'o}n}{27}{subsection.3.4.6}
+\contentsline {chapter}{\numberline {4}Alcance del proyecto}{28}{chapter.4}
+\contentsline {section}{\numberline {4.1}Objetivos del proyecto}{28}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Objetivos generales}{28}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Objetivos especificos}{28}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Alcance del proyecto}{28}{section.4.2}
+\contentsline {section}{\numberline {4.3}Metodologia de trabajo}{29}{section.4.3}
+\contentsline {section}{\numberline {4.4}Especificaciones de plataforma}{29}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Hardaware requerido}{29}{subsection.4.4.1}
+\contentsline {subsubsection}{Computadoras para desarrollo}{29}{subsection.4.4.1}
+\contentsline {subsubsection}{Dispositivos moviles de prueba}{30}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Software requerido}{30}{subsection.4.4.2}
+\contentsline {subsubsection}{Motor de juego}{30}{subsection.4.4.2}
+\contentsline {subsubsection}{Creaci\IeC {\'o}n de sprites}{31}{subsection.4.4.2}
+\contentsline {subsubsection}{Interfaz gr\IeC {\'a}fica de usuario}{31}{subsection.4.4.2}
+\contentsline {section}{\numberline {4.5}Productos esperados}{31}{section.4.5}
+\contentsline {chapter}{\numberline {5}Trabajo realizado}{32}{chapter.5}
+\contentsline {section}{\numberline {5.1}Etapa de Preproducci\IeC {\'o}n}{32}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Primer Sprint Huddle de Preproducci\IeC {\'o}n}{32}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Segundo Sprint Huddle de Preproducci\IeC {\'o}n}{32}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Tercer Sprint Huddle de Preproducci\IeC {\'o}n}{33}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Cuarto Sprint Huddle de Preproducci\IeC {\'o}n}{33}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Etapa de producci\IeC {\'o}n}{33}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Primer Sprint Huddle de Producci\IeC {\'o}n.}{34}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Segundo Sprint Huddle de Producci\IeC {\'o}n.}{34}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Tercer Sprint Huddle de Producci\IeC {\'o}n.}{34}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Cuarto Sprint Huddle de Producci\IeC {\'o}n.}{35}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Quinto Sprint Huddle de Producci\IeC {\'o}n}{35}{subsection.5.2.5}
+\contentsline {subsubsection}{Modelo de datos}{35}{subsection.5.2.5}
+\contentsline {subsubsection}{Control de adicci\IeC {\'o}n en el jugador}{35}{subsection.5.2.5}
+\contentsline {subsubsection}{Modelo de negocios}{36}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Sexto \textit {Sprint Huddle} de Producci\IeC {\'o}n}{36}{subsection.5.2.6}
+\contentsline {subsubsection}{Las nuevas estrategias de desarrollo}{36}{subsection.5.2.6}
+\contentsline {subsubsection}{Actualizando el \textit {software} de desarrollo}{36}{subsection.5.2.6}
+\contentsline {subsubsection}{Creaci\IeC {\'o}n de los \textit {sprites} faltantes}{37}{figure.5.3}
+\contentsline {chapter}{\numberline {6}Resultados obtenidos}{40}{chapter.6}
+\contentsline {chapter}{\numberline {7}Conclusiones}{41}{chapter.7}
+\contentsline {chapter}{\numberline {8}Anexos}{46}{chapter.8}
+\contentsline {section}{\numberline {8.1}Interfaces}{46}{section.8.1}
+\contentsline {section}{\numberline {8.2}Dise\IeC {\~n}o de Personajes}{46}{section.8.2}
+\contentsline {section}{\numberline {8.3}Modelo de Datos}{46}{section.8.3}
+\contentsline {section}{\numberline {8.4}Control de adicci\IeC {\'o}n en el jugador}{46}{section.8.4}
+\contentsline {section}{\numberline {8.5}Maquetas de niveles}{46}{section.8.5}
